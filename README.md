@@ -1,6 +1,6 @@
 ## Hello 👋
 
-My name is Pablo, I'm from Argentina and I'm an web developer.
+My name is Nahuel, I'm from Argentina and I'm an web developer.
 
 * Currently working for [@CodeHuit](https://github.com/Nahuelzwonko) as a Full Stack developer
 about SRE technologies like Docker and Kubernetes.
