@@ -7,7 +7,7 @@
 
 <!-- Rahul name gif image -->
 <p align="center">
-  <img width="300%" height="400" src="web.png" alt="Init">
+  <img width="100%" height="100%" src="web.png" alt="Init">
 </p>
 
 <!-- for line break -->
