@@ -7,7 +7,7 @@
 
 <!-- Rahul name gif image -->
 <p align="center">
-  <img width="100%" height="100%" src="web.png" alt="Init">
+  <img width="80%" height="100%" src="web.png" alt="Init">
 </p>
 
 <!-- for line break -->
@@ -15,41 +15,36 @@
      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
 <br>
 
-<h3 align="center">A passionate learner from India</h3>
+<h3 align="center">let's talk a little about me</h3>
 <br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="call.png">
 
-- 🔭 I’m currently working on **Data Structures**
+- 🔭 I am currently working on . **Back End development**
 
-- 🌱 I’m currently learning **Algoritms**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **DATA STRUCTURES**
 
 - 👯 I’m looking to collaborate with some enthusiastic person
 
-- 📫 How to reach me **rahulchaurasia@gmail.com**
+- 📫 How to reach me **nahuelzwonko22@gmail.com**
 
 - 🎯 Goals: earn in dollar 💰 / live in a cold place ❄
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I like games**
   <br><br>
 
 ## 🌐 Socials:
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100069084803407)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/____itz_rahul____/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-chaurasiya-97072b208/)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rahulchaurasiadabra)  
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/4Chaurasiya)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/nahuuzwonko/)
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/NahuelZwonko)
 
 <h3 align="left">💻 Languages and Tools:</h3>
 <p align="left">
         <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-                alt="bootstrap" width="40" height="40" /> </a> <a href="https://www.cprogramming.com/" target="_blank"
-            rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c"
-                width="40" height="40" /> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"
+                alt="bootstrap" width="40" height="40" /> </a>  <a href="https://www.w3schools.com/cpp/" target="_blank"
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
                 alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
@@ -79,9 +74,7 @@
                 alt="oracle" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank"
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php"
-                width="40" height="40" /> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
-                alt="python" width="40" height="40" /> </a> <a href="https://reactjs.org/" target="_blank"
+                width="40" height="40" /> </a>  <a href="https://reactjs.org/" target="_blank"
             rel="noreferrer"> <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
                 alt="react" width="40" height="40" /> </a> <a href="https://tailwindcss.com/" target="_blank"
@@ -89,59 +82,13 @@
                 alt="tailwind" width="40" height="40" /> </a>
     </p>
 
-<!-- for line break -->
-<br>
-     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
-<br>
-
-<!-- for github stats -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahul-chaurasiya&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p> -->
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-chaurasiya&&theme=tokyonight" alt="rahul chaurasiua" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahul-chaurasiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-
-<!-- for line break -->
-<br>
-     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
-<br>
-
-<!-- activity graph -->
-
-<!-- another type of profile view count -->
-<!-- <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/> -->
-
-<!-- for line break -->
 <br>
      <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%;">
 <br>
 
 <!-- for profile counter language -->
-<div align="center" dir="auto">
-        <h3 dir="auto">
-            <a id="user-content--profile-visitor-count" class="anchor" aria-hidden="true"
-                href="#-profile-visitor-count"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1"
-                    width="16" height="16" aria-hidden="true">
-                    <path fill-rule="evenodd"
-                        d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z">
-                    </path>
-                </svg></a><b><g-emoji class="g-emoji" alias="round_pushpin"
-                    fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">
-                    -----
-                    <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a>
-                </g-emoji>
-                Profile Visitor Count -----
-        </h3>
-    </div>
- 
+
 <!-- for profile counter box -->
-<p align="center" dir="auto">
-     <a target="_blank" rel="noopener noreferrer"
-            href="https://camo.githubusercontent.com/2c7594969b06752abd3b22db4591d65b4900c368cf8d57909dca77f203efbec1/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f2537424b6576696e506174656c30342537442f636f756e742e737667"><img
-                src="https://camo.githubusercontent.com/2c7594969b06752abd3b22db4591d65b4900c368cf8d57909dca77f203efbec1/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f2537424b6576696e506174656c30342537442f636f756e742e737667"
-                alt="visitor badge"
-                data-canonical-src="https://profile-counter.glitch.me/%Rahul-chaurasiya%7D/count.svg"
-                style="max-width: 100%;">
-     </a>
-</p>
 
 <!-- for line break -->
 <br>
