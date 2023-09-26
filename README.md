@@ -7,7 +7,7 @@
 
 <!-- Rahul name gif image -->
 <p align="center">
-  <img width="300%" height="250" src="20221224_0055471.gif" alt="Material Bread logo">
+  <img width="300%" height="400" src="web.png" alt="Init">
 </p>
 
 <!-- for line break -->
